@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Robot 1",
+        "price":24.50,
+        "description": "This is a description of Robot 1",
+        "imageUrl": "https://robohash.org/robot1",
+        "flashCards" : ["Test1", "Test1", "Test1"]
+    },
+    {
+        "id": 2,
+        "name": "Robot 2",
+        "price":32.90,
+        "description": "This is a description of Robot 2",
+        "imageUrl": "https://robohash.org/robot2",
+        "flashCards" : ["Test2", "Test2", "Test2"]
+    },
+    {
+        "id": 3,
+        "name": "Robot 3",
+        "price":20.50,
+        "description": "This is a description of Robot 3",
+        "imageUrl": "https://robohash.org/robot3",
+        "flashCards" : ["Test3", "Test3", "Test3"]
+    },
+    {
+        "id": 4,
+        "name": "Robot 4",
+        "price":20.50,
+        "description": "This is a description of Robot 4",
+        "imageUrl": "https://robohash.org/robot3",
+        "flashCards" : ["Test4", "Test4", "Test4"]
+    },
+    {
+        "id": 5,
+        "name": "Robot 5",
+        "price":20.50,
+        "description": "This is a description of Robot 5",
+        "imageUrl": "https://robohash.org/robot3",
+        "flashCards" : ["Test5", "Test5", "Test5"]
+    },
+    {
+        "id": 6,
+        "name": "Robot 6",
+        "price":20.50,
+        "description": "This is a description of Robot 6",
+        "imageUrl": "https://robohash.org/robot3",
+        "flashCards" : ["Test6", "Test6", "Test6"]
+    },
+    {
+        "id": 7,
+        "name": "Robot 7",
+        "price":20.50,
+        "description": "This is a description of Robot 7",
+        "imageUrl": "https://robohash.org/robot3",
+        "flashCards" : ["Test7", "Test7", "Test7"]
+    },
+    {
+        "id": 8,
+        "name": "Robot 8",
+        "price":20.50,
+        "description": "This is a description of Robot 8",
+        "imageUrl": "https://robohash.org/robot3",
+        "flashCards" : ["Test8", "Test8", "Test8"]
+    },
+    {
+        "id": 9,
+        "name": "Robot 9",
+        "price":20.50,
+        "description": "This is a description of Robot 9",
+        "imageUrl": "https://robohash.org/robot3",
+        "flashCards" : ["Test9", "Test9", "Test9"]
+    }
+]
